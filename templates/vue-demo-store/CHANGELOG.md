@@ -1,5 +1,11 @@
 # vue-demo-store
 
+## 1.3.1
+
+### Patch Changes
+
+- [#1404](https://github.com/shopware/frontends/pull/1404) [`d4482d5`](https://github.com/shopware/frontends/commit/d4482d51a65c435f27923e85223cac4e291f6c56) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - Add smooth scrolling on the routing change (excluding product variants)
+
 ## 1.3.0
 
 ### Minor Changes

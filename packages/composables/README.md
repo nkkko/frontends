@@ -165,9 +165,8 @@ All composable functions are fully typed with TypeScript and they are registed g
 
 Full changelog for stable version is available [here](https://github.com/shopware/frontends/blob/main/packages/composables/CHANGELOG.md)
 
-### Latest changes: 1.4.2
+### Latest changes: 1.4.3
 
 ### Patch Changes
 
-- Updated dependencies [[`938c4cf`](https://github.com/shopware/frontends/commit/938c4cfe6438f0e11a34f69bc7a183f10ba7f381)]:
-  - @shopware/api-client@1.1.2
+- [#1449](https://github.com/shopware/frontends/pull/1449) [`8ba9702`](https://github.com/shopware/frontends/commit/8ba9702657d1dc31cc653728788830fa38bb4992) Thanks [@mkucmus](https://github.com/mkucmus)! - Add configuration step to README.md

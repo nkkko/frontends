@@ -1,5 +1,16 @@
 # @shopware-pwa/cms-base
 
+## 1.2.0
+
+### Minor Changes
+
+- [#1404](https://github.com/shopware/frontends/pull/1404) [`d4482d5`](https://github.com/shopware/frontends/commit/d4482d51a65c435f27923e85223cac4e291f6c56) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - Add smooth scrolling for listing pagination
+
+### Patch Changes
+
+- Updated dependencies [[`8ba9702`](https://github.com/shopware/frontends/commit/8ba9702657d1dc31cc653728788830fa38bb4992)]:
+  - @shopware-pwa/composables-next@1.4.3
+
 ## 1.1.2
 
 ### Patch Changes

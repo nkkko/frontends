@@ -125,10 +125,13 @@ More about Nuxt configuration can be found [HERE](https://nuxt.com/docs/getting-
 
 Full changelog for stable version is available [here](https://github.com/shopware/frontends/blob/main/packages/nuxt3-module/CHANGELOG.md)
 
-### Latest changes: 1.0.8
+### Latest changes: 1.1.0
+
+### Minor Changes
+
+- [#1442](https://github.com/shopware/frontends/pull/1442) [`9669d1b`](https://github.com/shopware/frontends/commit/9669d1b39fca71461a3641840632db171f2968ed) Thanks [@mdanilowicz](https://github.com/mdanilowicz)! - Added possibility to use Nuxt config file for setting the API requests headers. Headers are added to each request SSR and CSR.
 
 ### Patch Changes
 
-- Updated dependencies [[`938c4cf`](https://github.com/shopware/frontends/commit/938c4cfe6438f0e11a34f69bc7a183f10ba7f381)]:
-  - @shopware/api-client@1.1.2
-  - @shopware-pwa/composables-next@1.4.2
+- Updated dependencies [[`8ba9702`](https://github.com/shopware/frontends/commit/8ba9702657d1dc31cc653728788830fa38bb4992)]:
+  - @shopware-pwa/composables-next@1.4.3

@@ -1,5 +1,11 @@
 # @shopware-pwa/composables-next
 
+## 1.4.3
+
+### Patch Changes
+
+- [#1449](https://github.com/shopware/frontends/pull/1449) [`8ba9702`](https://github.com/shopware/frontends/commit/8ba9702657d1dc31cc653728788830fa38bb4992) Thanks [@mkucmus](https://github.com/mkucmus)! - Add configuration step to README.md
+
 ## 1.4.2
 
 ### Patch Changes
