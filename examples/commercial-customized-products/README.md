@@ -71,6 +71,8 @@ or...
 
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/shopware/frontends/tree/main/examples/commercial-customized-products?file=README.md)
 
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/shopware/frontends)
+
 ## Resources
 
 - [Custom Products](https://docs.shopware.com/en/shopware-6-en/extensions/customproducts) docs
